@@ -158,7 +158,7 @@
                         </v-row>
                         <v-row>
                             <v-col clos="12">
-                                <v-text-field 
+                                <v-text-field
                                 name="detail" 
                                 label="Detail" 
                                 id="detail"
